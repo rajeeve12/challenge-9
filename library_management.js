@@ -69,5 +69,11 @@ class section {
     }
     function calculateTotalBooksAvailable() {
         const totalBooks = book1+book2+book3+borrowedBooks;
-        
+
     }
+}
+    //Task 6
+function newStructure () {
+    return addBook;
+    const newbook = borrowedBooks + listBooks;
+}
