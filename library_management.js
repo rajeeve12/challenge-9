@@ -61,3 +61,13 @@ function priority(){
     book3 = book2;
 }
 }
+//Task 5
+class section {
+    constructor(name, books,) {
+        this.name = name;
+        this.books = "Harry Potter";
+    }
+    function calculateTotalBooksAvailable() {
+        const totalBooks = book1+book2+book3+borrowedBooks;
+        
+    }
