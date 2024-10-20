@@ -48,3 +48,16 @@ function returnBook(){
 }
 }
 //Task 4
+class VIPPatron {
+    constructor(name, borrowedBooks) {
+        this.name = name;
+        this.borrowedBooks = "Percy Jackson";
+    }
+function borrowBook(){
+    const book1 = addBook;
+}
+return addBook;
+function priority(){
+    book3 = book2;
+}
+}
